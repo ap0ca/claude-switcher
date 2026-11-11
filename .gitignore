@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS Finder folder metadata
+.DS_Store
+
+# cswap export files: they hold account logins in plain text
+*.cswap
